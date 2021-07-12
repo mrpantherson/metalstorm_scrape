@@ -5,6 +5,7 @@
     TODO instead of hard coding pages, follow links to next page
     TODO sort output
     TODO clean req.txt
+    TODO deep scrape of each artist page
 
     Usage: In terminal
         scrapy crawl metalspider -O file.csv
